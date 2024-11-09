@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3e6f5; /* Light violet background */
+    color: #4a4a4a; /* Dark text for readability */
+    text-align: center;
+    margin: 0;
+}
+
+header {
+    background-color: #b085c6; /* Soft violet for header */
+    padding: 20px;
+    color: #fff;
+}
+
+.gallery {
+    padding: 20px;
+    background-color: #e9d3f0; /* Slightly lighter violet for the gallery section */
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.photos img {
+    width: 200px;
+    margin: 10px;
+    border-radius: 10px;
+    transition: transform 0.3s;
+}
+
+.photos img:hover {
+    transform: scale(1.1);
+}
+
+.message {
+    background-color: #d8bce3; /* Soft violet for message section */
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    color: #4a4a4a;
+}

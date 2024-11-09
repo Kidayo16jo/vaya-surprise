@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Surprise for You</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>A Little Surprise for You!</h1>
+    </header>
+    <section class="gallery">
+        <h2>Our Moments Together</h2>
+        <div class="photos">
+            <img src="images/photo_2023-04-25_18-16-11.jpg" alt="Memory 1">
+            <img src="images/photo_2024-10-29_22-00-44.jpg" alt="Memory 2">
+        </div>
+    </section>
+    <section class="message">
+        <h2>A Special Message</h2>
+        <p>To my love,</p>
+        <p>Every moment with you feels like a piece of heaven on Earth. With you by my side, I feel at home, wrapped in the warmth of your presence. I want you to know that you are cherished beyond words, and there’s nothing I wouldn’t do to see you smile. I promise to always be here, through the laughter and the tears, holding you close and keeping you safe. You are my joy, my peace, and my greatest gift.</p>
+        <p>With all my love, forever and always.</p>
+        <p><strong>Vaya</strong> – <em>"Journey" in Spanish, because every moment with you is an adventure I cherish.</em></p>
+    </section>
+</body>
+</html>
